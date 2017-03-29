@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Ubuntu-Italic';
-    src:url(../fonts/Ubuntu-Italic.ttf) format('truetype');
+    font-family: 'STHeiti';
+    src:url(../fonts/STHeiti.ttf) format('truetype');
 }
 body a{
     transition:0.5s all;
@@ -15,6 +15,14 @@ input[type="button"]{
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
+}
+
+.content h2, .content h3{
+    font-family: 'STHeiti';
+}
+
+.container a{
+    font-family: 'STHeiti';
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -45,7 +53,7 @@ body{
 }
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     font-size: 1em;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -82,7 +90,7 @@ body{
 }
 .dropdown-menu > li > a {
     padding: 10px 16px !important;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     font-size: 1em;
 }
 .caret {
@@ -96,7 +104,7 @@ body{
     font-size: 4em;
     text-decoration: none;
     color: #fff;
-	font-family: 'Ubuntu-Italic';
+	font-family: 'STHeiti';
 	text-transform: capitalize;
 	font-weight: 600;
 }
@@ -214,7 +222,7 @@ a.button2 {
 }
 .service h2 {
     font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -243,7 +251,7 @@ span.glyphicon.glyphicon-link {
 }
 .service-grid h4 {
     font-size: 1.5em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
 	color: #222;
 }
@@ -260,7 +268,7 @@ span.glyphicon.glyphicon-link {
 }
 .project h3 {
     font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #fff;
 }
@@ -279,7 +287,7 @@ span.glyphicon.glyphicon-link {
 }
 .testimonials h3 {
     font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #fff;
 	margin-bottom:0.5em;
@@ -295,7 +303,7 @@ span.glyphicon.glyphicon-link {
 }
 .testimonials h4 {
     font-size: 1.5em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
 	color: #ED654B;
 	margin-top: 1em;
@@ -311,7 +319,7 @@ span.glyphicon.glyphicon-link {
 }
 .news h3 {
 	font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -332,7 +340,7 @@ span.glyphicon.glyphicon-link {
 }
 .news-grid h4 {
   font-size: 1.5em;
-  font-family: 'Ubuntu-Italic';
+  font-family: 'STHeiti';
   text-transform: capitalize;
   margin: 0.5em 0 0.3em;
 }
@@ -450,7 +458,7 @@ text-align:center;
 }
 .about-section h2 {
 	font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
     margin-bottom: 0.5em;
@@ -471,7 +479,7 @@ text-align:center;
 }
 .why-choose h3 {
   font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #fff;
 }
@@ -479,7 +487,7 @@ text-align:center;
   font-size: 1.5em;
   color: #fff;
   text-transform: capitalize;
-  font-family: 'Ubuntu-Italic';
+  font-family: 'STHeiti';
 }
 .choose-grid p{
 	font-size:1em;
@@ -496,7 +504,7 @@ text-align:center;
 }
 .ourteam h3 {
     font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -505,7 +513,7 @@ text-align:center;
   color: #222;
   text-transform: capitalize;
   margin: 0.5em 0;
-  font-family: 'Ubuntu-Italic';
+  font-family: 'STHeiti';
 }
 .team-grid p {
   font-size: 1em;
@@ -521,7 +529,7 @@ text-align:center;
 }
 .whatweoffer h3 {
  font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 	text-align:center;
@@ -567,7 +575,7 @@ text-align:center;
 }
 .services h2 {
 	font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -576,7 +584,7 @@ text-align:center;
   color: #222;
   text-transform: capitalize;
    margin: 0.5em 0 0.3em;
-   font-family: 'Ubuntu-Italic';
+   font-family: 'STHeiti';
 }
 .services p {
    font-size:1em;
@@ -611,7 +619,7 @@ text-align:center;
 }
 .advantages h3 {
 	font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 	text-align: center;
@@ -624,7 +632,7 @@ text-align:center;
   color: #222;
   text-transform: capitalize;
    margin: 0em 0 0.3em;
-   font-family: 'Ubuntu-Italic';
+   font-family: 'STHeiti';
 }
 .advantage-grid {
     margin-top: 2em;
@@ -641,7 +649,7 @@ text-align:center;
 }
 .gallery h2 {
     font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -685,7 +693,7 @@ background: url(../images/se.png) no-repeat 0px;
 /*-- Typography --*/
 h2.tittle {
     font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
     text-align: center;
@@ -744,7 +752,7 @@ h2.tittle {
 }
 .blog-section h2 {
     font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
     text-align: center;
@@ -766,7 +774,7 @@ h2.tittle {
   font-size: 1.5em;
   color: #222;
   margin: 0.5em 0;
- font-family: 'Ubuntu-Italic';
+ font-family: 'STHeiti';
 }
 .blog-grid p {
   font-size: 1em;
@@ -813,7 +821,7 @@ img.zoom-img:hover {
 .single h2{
   text-align:center;
   font-size: 2.8em;
-  font-family: 'Ubuntu-Italic';
+  font-family: 'STHeiti';
   text-transform: capitalize;
   color: #ED654B;
  }
@@ -859,7 +867,7 @@ ul.blog-ic {
 }
 .content-form h3,.comments h3{ 
 	 font-size: 3em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
 	text-align: left;
@@ -869,7 +877,7 @@ ul.blog-ic {
     font-size: 1.5em;
     color: #222;
     margin: 1em 0;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
 }
 .content-form form input[type="text"],.content-form form textarea{
 	padding: 10px 15px;
@@ -951,7 +959,7 @@ ul.blog-ic {
 }
 .mail h2 {
 	font-size: 2.8em;
-    font-family: 'Ubuntu-Italic';
+    font-family: 'STHeiti';
     text-transform: capitalize;
     color: #ED654B;
     text-align: center;
