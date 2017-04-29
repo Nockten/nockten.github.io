@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'STHeiti';
+    font-family: monospace;
     src:url(../fonts/STHeiti.ttf) format('truetype');
 }
 body a{
@@ -18,11 +18,11 @@ input[type="button"]{
 }
 
 .content h2, .content h3{
-    font-family: 'STHeiti';
+    font-family: monospace;
 }
 
 .container a{
-    font-family: 'STHeiti';
+    font-family: monospace;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -53,7 +53,7 @@ body{
 }
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-    font-family: 'STHeiti';
+    font-family: monospace;
     font-size: 1em;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -90,7 +90,7 @@ body{
 }
 .dropdown-menu > li > a {
     padding: 10px 16px !important;
-    font-family: 'STHeiti';
+    font-family: monospace;
     font-size: 1em;
 }
 .caret {
@@ -104,7 +104,7 @@ body{
     font-size: 4em;
     text-decoration: none;
     color: #fff;
-	font-family: 'STHeiti';
+	font-family: monospace;
 	text-transform: capitalize;
 	font-weight: 600;
 }
@@ -222,7 +222,7 @@ a.button2 {
 }
 .service h2 {
     font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -251,7 +251,7 @@ span.glyphicon.glyphicon-link {
 }
 .service-grid h4 {
     font-size: 1.5em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
 	color: #222;
 }
@@ -268,7 +268,7 @@ span.glyphicon.glyphicon-link {
 }
 .project h3 {
     font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #fff;
 }
@@ -287,7 +287,7 @@ span.glyphicon.glyphicon-link {
 }
 .testimonials h3 {
     font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #fff;
 	margin-bottom:0.5em;
@@ -303,7 +303,7 @@ span.glyphicon.glyphicon-link {
 }
 .testimonials h4 {
     font-size: 1.5em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
 	color: #ED654B;
 	margin-top: 1em;
@@ -315,11 +315,11 @@ span.glyphicon.glyphicon-link {
 .news {
   text-align: center;
   padding: 4em 0;
-     
+
 }
 .news h3 {
 	font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -340,7 +340,7 @@ span.glyphicon.glyphicon-link {
 }
 .news-grid h4 {
   font-size: 1.5em;
-  font-family: 'STHeiti';
+  font-family: monospace;
   text-transform: capitalize;
   margin: 0.5em 0 0.3em;
 }
@@ -458,7 +458,7 @@ text-align:center;
 }
 .about-section h2 {
 	font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
     margin-bottom: 0.5em;
@@ -479,7 +479,7 @@ text-align:center;
 }
 .why-choose h3 {
   font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #fff;
 }
@@ -487,7 +487,7 @@ text-align:center;
   font-size: 1.5em;
   color: #fff;
   text-transform: capitalize;
-  font-family: 'STHeiti';
+  font-family: monospace;
 }
 .choose-grid p{
 	font-size:1em;
@@ -504,7 +504,7 @@ text-align:center;
 }
 .ourteam h3 {
     font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -513,7 +513,7 @@ text-align:center;
   color: #222;
   text-transform: capitalize;
   margin: 0.5em 0;
-  font-family: 'STHeiti';
+  font-family: monospace;
 }
 .team-grid p {
   font-size: 1em;
@@ -529,7 +529,7 @@ text-align:center;
 }
 .whatweoffer h3 {
  font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 	text-align:center;
@@ -575,7 +575,7 @@ text-align:center;
 }
 .services h2 {
 	font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -584,7 +584,7 @@ text-align:center;
   color: #222;
   text-transform: capitalize;
    margin: 0.5em 0 0.3em;
-   font-family: 'STHeiti';
+   font-family: monospace;
 }
 .services p {
    font-size:1em;
@@ -619,7 +619,7 @@ text-align:center;
 }
 .advantages h3 {
 	font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 	text-align: center;
@@ -632,7 +632,7 @@ text-align:center;
   color: #222;
   text-transform: capitalize;
    margin: 0em 0 0.3em;
-   font-family: 'STHeiti';
+   font-family: monospace;
 }
 .advantage-grid {
     margin-top: 2em;
@@ -649,7 +649,7 @@ text-align:center;
 }
 .gallery h2 {
     font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 }
@@ -693,7 +693,7 @@ background: url(../images/se.png) no-repeat 0px;
 /*-- Typography --*/
 h2.tittle {
     font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
     text-align: center;
@@ -752,7 +752,7 @@ h2.tittle {
 }
 .blog-section h2 {
     font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
     text-align: center;
@@ -774,7 +774,7 @@ h2.tittle {
   font-size: 1.5em;
   color: #222;
   margin: 0.5em 0;
- font-family: 'STHeiti';
+ font-family: monospace;
 }
 .blog-grid p {
   font-size: 1em;
@@ -821,7 +821,7 @@ img.zoom-img:hover {
 .single h2{
   text-align:center;
   font-size: 2.8em;
-  font-family: 'STHeiti';
+  font-family: monospace;
   text-transform: capitalize;
   color: #ED654B;
  }
@@ -867,7 +867,7 @@ ul.blog-ic {
 }
 .content-form h3,.comments h3{ 
 	 font-size: 3em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
 	text-align: left;
@@ -877,7 +877,7 @@ ul.blog-ic {
     font-size: 1.5em;
     color: #222;
     margin: 1em 0;
-    font-family: 'STHeiti';
+    font-family: monospace;
 }
 .content-form form input[type="text"],.content-form form textarea{
 	padding: 10px 15px;
@@ -959,7 +959,7 @@ ul.blog-ic {
 }
 .mail h2 {
 	font-size: 2.8em;
-    font-family: 'STHeiti';
+    font-family: monospace;
     text-transform: capitalize;
     color: #ED654B;
     text-align: center;
@@ -994,7 +994,7 @@ address {
 	font-weight: 400;
 	padding: 10px 0;
 	color: #222;
-	
+
 }
 .mail-right input[type="text"] {
 	width: 100%;
@@ -1288,6 +1288,11 @@ a.button {
     padding: 0.5em 0;
     text-align: center;
 }
+.scroll {
+    background: url(../images/ad.jpg);
+	background-size:cover;
+}
+
 .header {
     background: url(../images/banner1.jpg) no-repeat -100px 0px;
 	background-size:cover;
